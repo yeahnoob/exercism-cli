@@ -3,7 +3,7 @@
 
 Dockerized version of https://github.com/exercism/cli
 
-Image size: 16.3MB
+Image size: less than 20MB
 
 # How to use
 1. Create the `config.json` from the template:
